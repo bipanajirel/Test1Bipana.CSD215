@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Test1.Bipana.CSD215")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ceead3c3ba34ea69c1003f182d22dc2cf959ae5")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Test1.Bipana.CSD215")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Test1.Bipana.CSD215")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

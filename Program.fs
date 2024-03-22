@@ -17,13 +17,15 @@ let calTax salary =
     | s when s >= 50000 && s <= 100000 -> s
     | _ -> salary
 
-
 // Total tax for all salaries
 let taxedSal = List.map calTax  allSal
-printfn " Total taxes for all sal: %A" taxedSal
+printfn "Total taxes for all sal: %A" taxedSal
 
-// Sum salaries between $50,000 and $100,000
-let MedSal = List.filter (fun salary -> salary >= 50000 && salary <= 100000)  allSal |> List.sum
+// Sum salaries between $50,000 and $100,000 using List.reduce
+let MedSal =
+    allSal
+    |> List.filter (fun salary -> salary >= 50000 && salary <= 100000)
+    |> List.reduce (+)
 printfn "Sum of salaries between $50,000 and $100,000: %d" MedSal
 
 // Tail-recursive function for calculating sum of multiples of 3
@@ -34,4 +36,4 @@ let rec ParameterThree n acc =
 
 // Example
 let result = ParameterThree 27 0
-printfn "Sum of multiples of 3 up to 27: %d"result
+printfn "Sum of multiples of 3 up to 27: %d" result

@@ -27,3 +27,4 @@ C:\Users\97798\Desktop\Programming paradigms\Test1.Bipana.CSD215\obj\Debug\net8.
 C:\Users\97798\Desktop\Programming paradigms\Test1.Bipana.CSD215\obj\Debug\net8.0\Test1.Bipana.CSD215.pdb
 C:\Users\97798\Desktop\Programming paradigms\Test1.Bipana.CSD215\obj\Debug\net8.0\Test1.Bipana.CSD215.genruntimeconfig.cache
 C:\Users\97798\Desktop\Programming paradigms\Test1.Bipana.CSD215\obj\Debug\net8.0\ref\Test1.Bipana.CSD215.dll
+C:\Users\97798\Desktop\Programming paradigms\Test1.Bipana.CSD215\obj\Debug\net8.0\Test1.Bipana.CSD215.sourcelink.json
