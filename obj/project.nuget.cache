@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ju2jwyJYFAYd48EwSG7nn5mCGN8n3XguCtkI9RelMW9MQvVBEti5VOvyzs2MH7jxnaob70J+wkmdGCHaRYofOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\97798\\Desktop\\Programming paradigms\\Test1.Bipana.CSD215\\Test1.Bipana.CSD215.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\97798\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
